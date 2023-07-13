@@ -133,7 +133,7 @@ body {
     flex-direction: row;
   }
 
-  .image-preview img {
+  .image-preview .change-image {
     content: url(/assets/img/image-product-desktop.jpg);
     width: 300px;
     height: 450px;
